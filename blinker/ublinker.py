@@ -22,7 +22,7 @@
 
 import time
 
-from blinker import Blinker
+from blinker.blinker import Blinker
 from machine import Pin
 
 class UPyBlinker(Blinker):
