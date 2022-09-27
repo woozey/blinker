@@ -22,7 +22,6 @@
 
 import time
 
-from platform import machine
 from blinker import Blinker
 from machine import Pin
 
